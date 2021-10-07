@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f1669d89b4451bf4fbdd2d202c053f43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - suvPrefab: {fileID: 5905105904876417650, guid: 5546da3f579393e41857b620766433b9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
