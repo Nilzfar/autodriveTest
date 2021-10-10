@@ -3,4 +3,3 @@ project is containing an autonomous car in an immersive VR environment and colle
 
 ![Capture](https://user-images.githubusercontent.com/63006273/136690793-2fbf124a-6936-44c1-ac04-208862892d67.PNG)
 
-in order to have VR experience SteamVr should be added to Assests folder. https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647 
