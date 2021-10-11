@@ -7,12 +7,14 @@
 
 * Data aqusition can be selected:
 
-![Capture2](https://user-images.githubusercontent.com/63006273/136775935-cb8a4fda-aea7-4cba-903b-22110544cb84.PNG)
+
+![Capture1 - Copy](https://user-images.githubusercontent.com/63006273/136796679-9b141873-cdea-455d-8b54-e0144ef4911f.PNG)
 
 
 * Real time streaming:
 
-![Capture1](https://user-images.githubusercontent.com/63006273/136777327-e912757b-64d5-40ad-bbfc-eb981b95a1c1.PNG)
+
+![Capture2 - Copy](https://user-images.githubusercontent.com/63006273/136796709-c1d532ba-b0de-420b-8f28-96d8c5052b83.PNG)
 
 
 
