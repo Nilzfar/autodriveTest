@@ -1,25 +1,43 @@
-# autodriveTest
-* Project is containing a semi autonomous car (driver can interference with mouse to control the car) in an immersive VR environment and collecting EDA signal and eye tracking data synchronized with LSL and recorded by LabRecorder. 
+# AutodriveTest – Semi-Autonomous VR Driving & Data Acquisition
 
-![Capture](https://user-images.githubusercontent.com/63006273/136775347-e0a68b1a-5755-4d8c-a74d-470c730ddc9f.PNG)
-![Capture3](https://user-images.githubusercontent.com/63006273/136775357-7b2ef84e-6000-4466-b656-171aedd235e6.PNG)
+AutodriveTest is a **semi-autonomous driving simulation** in an immersive VR environment.  
+The system allows a driver to **interfere with mouse input** to control the vehicle while simultaneously recording **Bio-signals**.
 
+The project integrates **EDA (Electrodermal Activity)** and **eye-tracking data** with **Lab Streaming Layer (LSL)** for synchronization and stores recordings via **LabRecorder**.
 
-* Data aqusition can be selected:
+---
 
+## Features
 
-![Capture1 - Copy](https://user-images.githubusercontent.com/63006273/136796679-9b141873-cdea-455d-8b54-e0144ef4911f.PNG)
+- Semi-autonomous driving simulation in VR  
+- Manual override using mouse control  
+- Real-time **EDA** and **eye-tracking** acquisition  
+- Synchronized signal streaming via **Lab Streaming Layer (LSL)**  
+- Full session recording with **LabRecorder**  
+- Immersive experience with **HTC Vive Pro Eye** headset  
 
+---
 
-* Real time streaming:
+## Screenshots
 
+![VR Driving Capture](https://user-images.githubusercontent.com/63006273/136775347-e0a68b1a-5755-4d8c-a74d-470c730ddc9f.PNG)  
+![Driving HUD](https://user-images.githubusercontent.com/63006273/136775357-7b2ef84e-6000-4466-b656-171aedd235e6.PNG)  
 
-![Capture2 - Copy](https://user-images.githubusercontent.com/63006273/136796709-c1d532ba-b0de-420b-8f28-96d8c5052b83.PNG)
+### Data Acquisition Options
+![Data Acquisition](https://user-images.githubusercontent.com/63006273/136796679-9b141873-cdea-455d-8b54-e0144ef4911f.PNG)  
 
+### Real-Time Streaming
+![Streaming](https://user-images.githubusercontent.com/63006273/136796709-c1d532ba-b0de-420b-8f28-96d8c5052b83.PNG)  
 
+---
 
- - [x] Unity version 2020.03.11f1
- - [x] total 4.47 GB 
- - [x] Operating System: Windows 10 home
- - [x] You will need to be in possessions of HTC Vive Pro Eye
- - [x] You need SteamVR and Tobii XR installed on the system!
+## Requirements
+
+- **Unity Version:** 2020.3.11f1  
+- **Operating System:** Windows 10 Home  
+- **Hardware:**  
+  - HTC Vive Pro Eye headset  
+- **Software Dependencies:**  
+  - [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)  
+  - [Tobii XR SDK](https://vr.tobii.com/sdk/develop/unity/)  
+
